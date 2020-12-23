@@ -1,0 +1,16 @@
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\NUnit3.TestAdapter.dll
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\nunit.engine.dll
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\nunit.engine.api.dll
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\nunit.engine.core.dll
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\NUnit_Lab.exe.config
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\NUnit_Lab.exe
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\NUnit_Lab.pdb
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\nunit.framework.dll
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\nunit.framework.pdb
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\bin\Debug\nunit.framework.xml
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\obj\Debug\NUnit_Lab.csprojAssemblyReference.cache
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\obj\Debug\NUnit_Lab.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\obj\Debug\NUnit_Lab.csproj.CopyComplete
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\obj\Debug\NUnit_Lab.exe
+D:\Programming\C#\Labs\Lab5_NUnit\NUnit_Lab\NUnit_Lab\obj\Debug\NUnit_Lab.pdb
